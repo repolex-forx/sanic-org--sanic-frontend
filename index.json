@@ -1,0 +1,11 @@
+{
+  "org": "sanic-org",
+  "repo": "sanic-frontend",
+  "versions": [
+    {
+      "commit": "b66911dce63e6f9069437accce983963cca3aeba",
+      "tag": "",
+      "parsed_at": "2026-10-21T02:42:39.634721+00:00"
+    }
+  ]
+}
